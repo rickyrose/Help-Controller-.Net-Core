@@ -26,7 +26,7 @@ namespace Tarebear_Implementation
             clientid = "";
             partneroathid = "";
             partneroathkey = "";
-            clientoath
+            clientoath = "";
         }
     }
 }
